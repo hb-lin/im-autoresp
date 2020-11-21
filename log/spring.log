@@ -1,0 +1,45 @@
+2020-11-16 13:27:55.223  INFO 7948 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 7948 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:27:55.226  INFO 7948 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:27:55.816  INFO 7948 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.351 seconds (JVM running for 4.37)
+2020-11-16 13:31:21.233  INFO 17320 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 17320 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:31:21.241  INFO 17320 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:31:21.772  INFO 17320 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.408 seconds (JVM running for 3.124)
+2020-11-16 13:31:27.835  INFO 18532 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 18532 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:31:27.840  INFO 18532 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:31:28.792  INFO 18532 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.589 seconds (JVM running for 2.866)
+2020-11-16 13:32:44.530  INFO 16168 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 16168 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:32:44.548  INFO 16168 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:32:45.554  INFO 16168 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.688 seconds (JVM running for 3.057)
+2020-11-16 13:33:24.218  INFO 10184 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 10184 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:33:24.221  INFO 10184 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:33:24.835  INFO 10184 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.097 seconds (JVM running for 2.13)
+2020-11-16 13:33:44.964  INFO 18668 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 18668 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:33:44.967  INFO 18668 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:33:45.550  INFO 18668 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.132 seconds (JVM running for 3.516)
+2020-11-16 13:34:38.557  INFO 16156 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 16156 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:34:38.563  INFO 16156 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:34:39.394  INFO 16156 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 1.536 seconds (JVM running for 3.018)
+2020-11-16 13:40:07.584  INFO 19520 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 19520 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:40:07.588  INFO 19520 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:40:09.960  INFO 19520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8081 (http)
+2020-11-16 13:40:09.976  INFO 19520 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-16 13:40:09.976  INFO 19520 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-16 13:40:10.092  INFO 19520 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2396 ms
+2020-11-16 13:40:10.401  INFO 19520 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-16 13:40:10.594  INFO 19520 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8081 (http) with context path ''
+2020-11-16 13:40:10.607  INFO 19520 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 4.179 seconds (JVM running for 5.947)
+2020-11-16 13:41:36.839  INFO 19520 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-16 13:41:36.840  INFO 19520 --- [http-nio-8081-exec-2] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-11-16 13:56:50.040  INFO 19520 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-11-16 13:56:56.925  INFO 14140 --- [main] org.hkl.wsdemo.WsdemoApplication         : Starting WsdemoApplication using Java 1.8.0_271 on 20201110-160516 with PID 14140 (D:\workspace\git\wsdemo\target\classes started by Administrator in D:\workspace\git\wsdemo)
+2020-11-16 13:56:56.929  INFO 14140 --- [main] org.hkl.wsdemo.WsdemoApplication         : No active profile set, falling back to default profiles: default
+2020-11-16 13:56:58.789  INFO 14140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2020-11-16 13:56:58.826  INFO 14140 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-11-16 13:56:58.827  INFO 14140 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-11-16 13:56:58.964  INFO 14140 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1966 ms
+2020-11-16 13:56:59.311  INFO 14140 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-16 13:56:59.611  INFO 14140 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-16 13:56:59.623  INFO 14140 --- [main] org.hkl.wsdemo.WsdemoApplication         : Started WsdemoApplication in 3.418 seconds (JVM running for 4.828)
+2020-11-16 13:58:09.629  INFO 14140 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-11-16 13:58:09.630  INFO 14140 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2020-11-16 14:01:07.395  INFO 14140 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

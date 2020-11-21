@@ -1,0 +1,19 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: eurka-server
+  client:
+    #配置服务注册中心是否把自身也当作服务端注册到注册中心
+    registerWithEureka: false
+    #是否取得注册信息检索服务
+    fetchRegistry: false
+    serviceUrl:
+      #服务注册中心的配置内容，指定服务注册中心的位置
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/
+  server:
+    # 默认是true，调整为false，关闭eureka的自我保护
+    enable-self-preservation: false
+    # 默认值 60*1000 是1分钟
+    eviction-interval-timer-in-ms: 60000
